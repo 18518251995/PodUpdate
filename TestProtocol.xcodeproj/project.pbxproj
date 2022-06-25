@@ -73,6 +73,26 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		7FC180242866BB950000BB6F /* Person */ = {
+			isa = PBXGroup;
+			children = (
+				7FB1AA8A2819484B00B585CB /* FirstViewController.h */,
+				7FB1AA8B2819484B00B585CB /* FirstViewController.m */,
+				7FDC5AFD2796AC30001FA11C /* TestSuperPotocol.h */,
+				7FDC5B0427981415001FA11C /* ItemView.h */,
+				7FDC5B0527981415001FA11C /* ItemView.m */,
+				7FB1AA8D28194C3100B585CB /* LoopView.h */,
+				7FB1AA8E28194C3100B585CB /* LoopView.m */,
+				7FDC5AFE2796AC6C001FA11C /* Human.h */,
+				7FDC5AFF2796AC6C001FA11C /* Human.m */,
+				7FDC5B012796AC8E001FA11C /* Child.h */,
+				7FDC5B022796AC8E001FA11C /* Child.m */,
+				7F22260E282BCDC900D0EEFA /* SonSon.h */,
+				7F22260F282BCDC900D0EEFA /* SonSon.m */,
+			);
+			path = Person;
+			sourceTree = "<group>";
+		};
 		7FDC5AD82796AC0B001FA11C = {
 			isa = PBXGroup;
 			children = (
@@ -98,19 +118,7 @@
 				7FDC5AE52796AC0B001FA11C /* AppDelegate.m */,
 				7FDC5AEA2796AC0B001FA11C /* ViewController.h */,
 				7FDC5AEB2796AC0B001FA11C /* ViewController.m */,
-				7FB1AA8A2819484B00B585CB /* FirstViewController.h */,
-				7FB1AA8B2819484B00B585CB /* FirstViewController.m */,
-				7FDC5AFD2796AC30001FA11C /* TestSuperPotocol.h */,
-				7FDC5B0427981415001FA11C /* ItemView.h */,
-				7FDC5B0527981415001FA11C /* ItemView.m */,
-				7FB1AA8D28194C3100B585CB /* LoopView.h */,
-				7FB1AA8E28194C3100B585CB /* LoopView.m */,
-				7FDC5AFE2796AC6C001FA11C /* Human.h */,
-				7FDC5AFF2796AC6C001FA11C /* Human.m */,
-				7FDC5B012796AC8E001FA11C /* Child.h */,
-				7FDC5B022796AC8E001FA11C /* Child.m */,
-				7F22260E282BCDC900D0EEFA /* SonSon.h */,
-				7F22260F282BCDC900D0EEFA /* SonSon.m */,
+				7FC180242866BB950000BB6F /* Person */,
 				7FDC5AED2796AC0B001FA11C /* Main.storyboard */,
 				7FDC5AF02796AC0D001FA11C /* Assets.xcassets */,
 				7FDC5AF22796AC0D001FA11C /* LaunchScreen.storyboard */,
