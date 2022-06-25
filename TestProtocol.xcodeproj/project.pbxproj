@@ -10,7 +10,7 @@
 		7F222610282BCDC900D0EEFA /* SonSon.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F22260F282BCDC900D0EEFA /* SonSon.m */; };
 		7FB1AA8C2819484B00B585CB /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FB1AA8B2819484B00B585CB /* FirstViewController.m */; };
 		7FB1AA8F28194C3100B585CB /* LoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FB1AA8E28194C3100B585CB /* LoopView.m */; };
-		7FC17FFC2865D5390000BB6F /* TestProtocol.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7FC17FFB2865D5390000BB6F /* TestProtocol.podspec */; };
+		7FC17FFE2866AF3A0000BB6F /* TestProtocol.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7FC17FFD2866AF3A0000BB6F /* TestProtocol.podspec */; };
 		7FDC5AE62796AC0B001FA11C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FDC5AE52796AC0B001FA11C /* AppDelegate.m */; };
 		7FDC5AEC2796AC0B001FA11C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FDC5AEB2796AC0B001FA11C /* ViewController.m */; };
 		7FDC5AEF2796AC0B001FA11C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FDC5AED2796AC0B001FA11C /* Main.storyboard */; };
@@ -32,7 +32,7 @@
 		7FB1AA8B2819484B00B585CB /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		7FB1AA8D28194C3100B585CB /* LoopView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopView.h; sourceTree = "<group>"; };
 		7FB1AA8E28194C3100B585CB /* LoopView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoopView.m; sourceTree = "<group>"; };
-		7FC17FFB2865D5390000BB6F /* TestProtocol.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestProtocol.podspec; sourceTree = SOURCE_ROOT; };
+		7FC17FFD2866AF3A0000BB6F /* TestProtocol.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestProtocol.podspec; sourceTree = SOURCE_ROOT; };
 		7FDC5AE12796AC0B001FA11C /* TestProtocol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProtocol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FDC5AE42796AC0B001FA11C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7FDC5AE52796AC0B001FA11C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -116,7 +116,7 @@
 				7FDC5AF22796AC0D001FA11C /* LaunchScreen.storyboard */,
 				7FDC5AF52796AC0D001FA11C /* Info.plist */,
 				7FDC5AF62796AC0D001FA11C /* main.m */,
-				7FC17FFB2865D5390000BB6F /* TestProtocol.podspec */,
+				7FC17FFD2866AF3A0000BB6F /* TestProtocol.podspec */,
 			);
 			path = TestProtocol;
 			sourceTree = "<group>";
@@ -190,7 +190,7 @@
 			files = (
 				7FDC5AF42796AC0D001FA11C /* LaunchScreen.storyboard in Resources */,
 				7FDC5AF12796AC0D001FA11C /* Assets.xcassets in Resources */,
-				7FC17FFC2865D5390000BB6F /* TestProtocol.podspec in Resources */,
+				7FC17FFE2866AF3A0000BB6F /* TestProtocol.podspec in Resources */,
 				7FDC5AEF2796AC0B001FA11C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
